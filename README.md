@@ -20,10 +20,10 @@ If you are using jupyter notebook use follow the following commands to set up yo
 
 # Useful Resources
 
-* https://web.eecs.umich.edu/~justincj/teaching/eecs498/
-* https://www.pyimagesearch.com/
-* https://www.techpowerup.com/gpu-specs/
-* https://colab.research.google.com/notebooks/intro.ipynb#recent=true (Colab for prototyping)
+* **Deep Learning for Computer Vision by Justin Johson** https://web.eecs.umich.edu/~justincj/teaching/eecs498/
+* **PyImageSearch by Adrian** https://www.pyimagesearch.com/
+* **GPU Specs Database** https://www.techpowerup.com/gpu-specs/
+* **Colab** https://colab.research.google.com/notebooks/intro.ipynb#recent=true
 * **CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization** https://poloclub.github.io/cnn-explainer/
 * Check out **Monk** which serves as a unified wrapper for TensorFlow, Keras, PyTorch or MXNet and benefits from same syntax and hyperparameter optimisation.
   * Monk Object Detection has a lot of good examples! https://github.com/Tessellate-Imaging/Monk_Object_Detection
