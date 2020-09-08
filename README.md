@@ -24,6 +24,7 @@ If you are using jupyter notebook use follow the following commands to set up yo
 * https://www.pyimagesearch.com/
 * https://www.techpowerup.com/gpu-specs/
 * https://colab.research.google.com/notebooks/intro.ipynb#recent=true (Colab for prototyping)
+* **CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization** https://poloclub.github.io/cnn-explainer/
 * Check out **Monk** which serves as a unified wrapper for TensorFlow, Keras, PyTorch or MXNet and benefits from same syntax and hyperparameter optimisation.
   * Monk Object Detection has a lot of good examples! https://github.com/Tessellate-Imaging/Monk_Object_Detection
   * Monk Image classification https://github.com/Tessellate-Imaging/monk_v1
