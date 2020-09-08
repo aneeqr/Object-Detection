@@ -1,6 +1,6 @@
 # Object-Detection
 
-If you are using jupyter notebook use follow the following commands to set up your environment:
+If you are using jupyter notebook use follow the following commands to set up your environment, Check versions from requirements.txt.
 
 1. conda create -n TF_object_detection2 pip python=3.6
 2. activate TF_object_detection2
