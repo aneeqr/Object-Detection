@@ -28,4 +28,4 @@ If you are using jupyter notebook use follow the following commands to set up yo
 * Check out **Monk** which serves as a unified wrapper for TensorFlow, Keras, PyTorch or MXNet and benefits from same syntax and hyperparameter optimisation.
   * Monk Object Detection has a lot of good examples! https://github.com/Tessellate-Imaging/Monk_Object_Detection
   * Monk Image classification https://github.com/Tessellate-Imaging/monk_v1
-  
+* Tim Dettmers guide on the latest GPUs. https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/  
