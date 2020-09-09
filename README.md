@@ -1,6 +1,6 @@
 # Object-Detection
 
-For jupyter notebook use follow the following commands to set up your environment, Check versions from requirements.txt.
+For jupyter notebook use follow the following commands to set up your environment in windows using anaconda prompt. Check versions from requirements.txt.
 
 1. conda create -n TF_object_detection2 pip python=3.6
 2. activate TF_object_detection2
@@ -18,8 +18,9 @@ For jupyter notebook use follow the following commands to set up your environmen
 14. pip install opencv-python
 15. pip install seaborn
 16. pip install urlib3
+17. pip install numpy
 
-Steps 5 to 16 with the respective versions should be:
+Steps 5 to 17 with their respective versions should be:
 
 5. conda install -c conda-forge tensorflow==1.14.0
 6. conda install -c ostrokach-forge googledrivedownloader 
@@ -33,6 +34,7 @@ Steps 5 to 16 with the respective versions should be:
 14. pip install opencv-python==4.3.0.36
 15. pip install seaborn==0.10.1
 16. pip install urlib3==1.25.10
+17. pip install numpy==1.19.1
 
 # Useful Resources
 
