@@ -20,6 +20,7 @@ For jupyter notebook use follow the following commands to set up your environmen
 16. pip install urlib3
 
 Steps 5 to 16 with the respective versions should be:
+
 5. conda install -c conda-forge tensorflow==1.14.0
 6. conda install -c ostrokach-forge googledrivedownloader 
 7. pip install tqdm==4.48.2
