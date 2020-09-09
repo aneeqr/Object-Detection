@@ -1,6 +1,6 @@
 # Object-Detection
 
-If you are using jupyter notebook use follow the following commands to set up your environment, Check versions from requirements.txt.
+For jupyter notebook use follow the following commands to set up your environment, Check versions from requirements.txt.
 
 1. conda create -n TF_object_detection2 pip python=3.6
 2. activate TF_object_detection2
@@ -17,6 +17,21 @@ If you are using jupyter notebook use follow the following commands to set up yo
 13. pip install matplotlib
 14. pip install opencv-python
 15. pip install seaborn
+16. pip install urlib3
+
+Steps 5 to 16 with the respective versions should be:
+5. conda install -c conda-forge tensorflow==1.14.0
+6. conda install -c ostrokach-forge googledrivedownloader 
+7. pip install tqdm==4.48.2
+8. pip install -U scikit-learn==0.23.2
+9. pip install selenium==3.141.0
+10. pip install pandas==1.1.0
+11. pip install Pillow==7.2.0
+12. pip install imutils==0.5.3
+13. pip install matplotlib==3.3.0
+14. pip install opencv-python==4.3.0.36
+15. pip install seaborn==0.10.1
+16. pip install urlib3==1.25.10
 
 # Useful Resources
 
